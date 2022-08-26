@@ -1,3 +1,6 @@
+## What I got from this lecture
+What I understood is that Github is a social place to work on code with people and experiment on it without affecting the main code of it, which I didn't even know existed, I like the idea of a common and safe workplace for coders alike. One thing I did not understand too well is the difference between cloning and branching a Repository, form what I understand they are basically the same, but I think they are not because of the different names for the methods.
+
 # :wave: The Basics of GitHub 
 
 ## 🤓 Assignment overview and learning outcomes 
